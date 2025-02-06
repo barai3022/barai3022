@@ -26,7 +26,7 @@
 ||	Completion date: 30 June 2024			|			
 |||				
 |others:|	I have completed my MSc Theses on Machine learning with Python Programming on 2021.					|	
-	 ||I can build  native Android Mobile application with JAVA/ Kotlin Compose.		|				
+||I can build  native Android Mobile application with JAVA/ Kotlin Compose.		|				
 
 
 
