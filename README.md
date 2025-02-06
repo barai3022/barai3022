@@ -15,8 +15,8 @@
 ### Programming/Professional Course:							
 |SL|Details|
 | ----------- | ----------- |
-|1	Full Stack Web Development with Python, Django & React			|			
-|	Position: 13th (93.3%) out of 200+	|					
+|1|	Full Stack Web Development with Python, Django & React			|			
+|	|Position: 13th (93.3%) out of 200+	|					
 ||	Ostad Batch 1						|
 ||	Completion date: 13 January 2025		|				
 |||							
