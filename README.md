@@ -16,8 +16,8 @@
 |SL|Details|
 | ----------- | ----------- |
 |1	|Master of Science in Computer Science, February-2021|						
-| |	Jahangirnagar University|						
-|	|CGPA: 3.90 out of 4.00|						
+| ^^|	Jahangirnagar University|						
+|^^	|CGPA: 3.90 out of 4.00|						
 							
 2	Bachelor of Science in Electrical and Electronic Engineering, February-2006						
 	Khulna University of Engineering and Technology						
