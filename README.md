@@ -11,6 +11,25 @@
 |Mobile	|+8801723000008|					
 
 
+
+### Programming/Professional Course:							
+|SL|Details|
+| ----------- | ----------- |
+|1	Full Stack Web Development with Python, Django & React			|			
+|	Position: 13th (93.3%) out of 200+	|					
+||	Ostad Batch 1						|
+||	Completion date: 13 January 2025		|				
+|||							
+|2|	Mastering on Next JS & Prisma				|		
+||	Position: 4th (90.8%)				|		
+||	Ostad Batch 3			|			
+||	Completion date: 30 June 2024			|			
+|||				
+|others:|	I have completed my MSc Theses on Machine learning with Python Programming on 2021.					|	
+	 ||I can build  native Android Mobile application with JAVA/ Kotlin Compose.		|				
+
+
+
 ### Academic Qualification
 
 |SL|Details|
