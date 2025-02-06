@@ -28,5 +28,5 @@
 ||	Group: Science; Result: First Division; Marks: 63.3%.	|					
 |||							
 |4|	Secondary School Certificate Examination-1999	|					
-	||JKMB Mollick High School, Jalirpar, Gopalganj		|				
-	||Group: Science; Result: First Division; Marks: 70.0%.	|					
+||JKMB Mollick High School, Jalirpar, Gopalganj		|				
+||Group: Science; Result: First Division; Marks: 70.0%.	|					
